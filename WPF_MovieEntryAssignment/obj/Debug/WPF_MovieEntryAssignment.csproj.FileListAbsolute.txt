@@ -1,0 +1,15 @@
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\MainWindow.g.cs
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\App.g.cs
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment_MarkupCompile.cache
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment_MarkupCompile.lref
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\bin\Debug\WPF_MovieEntryAssignment.exe.config
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\bin\Debug\WPF_MovieEntryAssignment.exe
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\bin\Debug\WPF_MovieEntryAssignment.pdb
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\MainWindow.baml
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.g.resources
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.Properties.Resources.resources
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.csproj.GenerateResource.cache
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.exe
+C:\Users\mark.hamner\source\repos\WPF_MovieEntryAssignment\WPF_MovieEntryAssignment\obj\Debug\WPF_MovieEntryAssignment.pdb
